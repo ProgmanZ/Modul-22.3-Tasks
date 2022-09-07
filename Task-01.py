@@ -1,3 +1,5 @@
+# Задача 1. Результаты
+
 file = open('task\group_1.txt', 'r', encoding='utf-8')
 summa = 0
 for i_line in file:
